@@ -140,7 +140,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 7:
            
-            document.getElementById('noBtn').innerHTML = 'Men encantas';
+            document.getElementById('noBtn').innerHTML = 'Me encantas';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
